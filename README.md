@@ -1,8 +1,9 @@
 
 
+
+
+
 # Stacky_bottom_nav_bar
-
-
 A fancy animated bottom navigation bar.
 
 ## Preview
@@ -12,7 +13,7 @@ A fancy animated bottom navigation bar.
 
 | Default Light Mode | Default Dark Mode |
 | --- | ----------- |
-| <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71821b66-81e0-4479-84cd-3faeae8d174c/stacky_white.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220328%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220328T222350Z&X-Amz-Expires=86400&X-Amz-Signature=99e83886bfafd31b21de3438e7e501e252dd67d40e45e8b55ecabfb0de11d148&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22stacky_white.gif%22&x-id=GetObject"  /> |  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c9f33ee-e1f1-4df3-99f7-f9e0ad6343f6/My_Video.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220328%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220328T222507Z&X-Amz-Expires=86400&X-Amz-Signature=8ae99185df7eafd73071fcebaa0105193e10af0ef89b8fba49f9184501a08b89&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22My%2520Video.gif%22&x-id=GetObject"  />  |
+| <img src="https://user-images.githubusercontent.com/72628341/160502741-1bf0ceb0-b7a1-487c-b0a8-b7d896016fb1.gif"  /> |  <img src="https://user-images.githubusercontent.com/72628341/160502688-4ee84741-ad4e-49c2-8336-bec742aba038.gif"  />  |
 
 
 
