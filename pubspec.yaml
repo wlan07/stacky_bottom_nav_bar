@@ -1,7 +1,7 @@
 name: stacky_bottom_nav_bar
 description: A fancy animated bottom navigator bar.
 version: 0.0.1
-homepage:
+homepage: https://github.com/wlan07/stacky_bottom_nav_bar
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
