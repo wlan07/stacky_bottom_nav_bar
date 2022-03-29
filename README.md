@@ -29,7 +29,7 @@ Add the dependency in `pubspec.yaml`:
 ```yaml
 dependencies:
   ...
-  stacky_bottom_nav_bar: ^0.0.1
+  stacky_bottom_nav_bar: ^0.0.2
 ```
 
 ## ****Customization****
